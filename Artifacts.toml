@@ -7,4 +7,4 @@ os = "linux"
 
     [[FastJet_Julia_Wrapper.download]]
     sha256 = "367cea71db3db6cbd5e7f29469f4a0b812c9c70308a1cd7d2c9a9b19631d9aaa"
-    url = "https://github.com/jstrube/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.7.0+0/FastJet_Julia_Wrapper.v0.7.0.x86_64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/jstrube/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.7.1+0/FastJet_Julia_Wrapper.v0.7.1.x86_64-linux-gnu-cxx11.tar.gz"
