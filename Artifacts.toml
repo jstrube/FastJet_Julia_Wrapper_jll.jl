@@ -10,10 +10,10 @@ os = "linux"
 [[FastJet_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c678d36543b6c5a2a59bb33f90722fe54f654c96"
+git-tree-sha1 = "1567adbb60ee6b367f3a8fbe10f29939f869d008"
 libc = "glibc"
 os = "linux"
 
     [[FastJet_Julia_Wrapper.download]]
-    sha256 = "ee240130c7c11d600fa558e5395e9447cb479183711db893e7e65600a6ee902e"
-    url = "https://github.com/jstrube/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.2-alpha1+1/FastJet_Julia_Wrapper.v0.8.2-alpha1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "de66cd1924f1055bfa2e3120b8c60e3cfd74438bfda0d02b686694d3dea9eac9"
+    url = "https://github.com/jstrube/FastJet_Julia_Wrapper_jll.jl/releases/download/FastJet_Julia_Wrapper-v0.8.3-alpha1+1/FastJet_Julia_Wrapper.v0.8.3-alpha1.x86_64-linux-gnu-cxx11.tar.gz"
